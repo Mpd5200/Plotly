@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(87, 207, 255); 
+}
+
+
+.jumbocontainer, .well{
+    background-color: white;
+    border-color: rgba(31, 52, 119, 0.493);
+    border-width: 3px;
+    color: rgba(31, 52, 119, 0.493);
+
+}
+
+.panel-heading{
+    background-color: rgba(31, 52, 119, 0.493);
+}
+
